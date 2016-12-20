@@ -11,7 +11,7 @@ brew tap alfg/tap
 ## Packages
 
 ```shell
-brew install <package>
+brew install alfg/tap/<package>
 ```
 
 | Package | Description | Repo |
