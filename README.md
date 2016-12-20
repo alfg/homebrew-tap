@@ -17,6 +17,7 @@ brew install <package>
 | Package | Description | Repo |
 | ------- | ----------- | ---- |
 |`asciicat` | Image to ASCII Art Conversion | http://github.com/alfg/asciicat |
+|`bithook` | A Bitcoin Webhook CLI | http://github.com/alfg/bithook |
 
 ## Resources
 * https://github.com/Homebrew/brew/blob/master/share/doc/homebrew/How-to-Create-and-Maintain-a-Tap.md
