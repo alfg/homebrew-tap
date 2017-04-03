@@ -20,4 +20,4 @@ brew install alfg/tap/<package>
 |`bithook` | A Bitcoin Webhook CLI | http://github.com/alfg/bithook |
 
 ## Resources
-* https://github.com/Homebrew/brew/blob/master/share/doc/homebrew/How-to-Create-and-Maintain-a-Tap.md
+* https://github.com/Homebrew/brew/blob/master/docs/How-to-Create-and-Maintain-a-Tap.md
