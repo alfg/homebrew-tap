@@ -17,6 +17,7 @@ brew install alfg/tap/<package>
 | Package | Description | Repo |
 | ------- | ----------- | ---- |
 |`asciicat` | Image to ASCII Art Conversion | http://github.com/alfg/asciicat |
+|`bifextract` | A CLI utility for extracting images from a BIF file | http://github.com/alfg/bifextract |
 |`bithook` | A Bitcoin Webhook CLI | http://github.com/alfg/bithook |
 
 ## Resources
