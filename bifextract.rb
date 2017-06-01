@@ -1,4 +1,4 @@
-class Bithook < Formula
+class Bifextract < Formula
   desc "A CLI utility for extracting images from a BIF file."
   homepage "https://github.com/alfg/bifextract"
   url "https://github.com/alfg/bifextract/archive/0.1.0.tar.gz"
