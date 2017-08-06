@@ -1,10 +1,10 @@
 cask 'somafm' do
-  version '0.2.0'
-  sha256 '9d15ad0e41cbb352f382be8132c8af366fee1bcf46d99606b3aa059f5e55712c'
+  version '0.3.0'
+  sha256 'ca8cad7cb28ddcc4c6f3ba10d488c83af8745f966f439fca6246d539f22e802b'
 
   url "https://github.com/alfg/somafm/releases/download/v#{version}/SomaFM-#{version}.dmg"
   appcast 'https://github.com/alfg/somafm/releases.atom',
-          checkpoint: '233348c04067425f8e3281dabd79d0e2724983d883d84cdb63b08ab426eddecf'
+          checkpoint: '5afaf0bfdb8b96964c507146d3e37d98d8a554ca10cb8fe62a3ff32c3f071fc9'
   name 'SomaFM'
   homepage 'https://github.com/alfg/somafm'
 
